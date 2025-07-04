@@ -1,0 +1,5 @@
+# Database config
+database.php
+
+# Database dumps with actual data
+pres_system.sql
