@@ -1,6 +1,5 @@
 # Prescription Management System
-
-A comprehensive web-based prescription management system that connects patients with pharmacies for seamless prescription processing and quotation management.
+![Project Screenshot](./assets/screenshot.png) 
 
 ## 🏥 Project Overview
 
