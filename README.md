@@ -1,5 +1,5 @@
 # Prescription Management System
-![Project Screenshot](./assets/screenshot.png) 
+![Project Demo Video](./assets/Medical Prescription Upload System.mp4)
 
 ## 🏥 Project Overview
 
