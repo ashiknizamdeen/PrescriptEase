@@ -1,8 +1,5 @@
 # Prescription Management System
-<video width="100%" controls>
-  <source src="./assets/Medical Prescription Upload System.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Hero Section](./assets/screenshot.png)
 
 ## 🏥 Project Overview
 
