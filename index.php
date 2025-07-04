@@ -74,7 +74,6 @@ require_once 'includes/functions.php';
                 </div>
             </div>
         </div>
-
         <footer class="main-footer">
             <p>&copy; 2025 Medical Prescription Upload System by Ashik. All rights reserved.</p>
         </footer>

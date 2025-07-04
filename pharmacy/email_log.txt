@@ -1,0 +1,2 @@
+[2025-07-04 19:04:43] Email to: pharmacy@gmail.com | Subject: Quotation Accepted | Message: Your quotation has been accepted by the customer.
+[2025-07-04 19:11:22] Email to: pharmacy@gmail.com | Subject: Quotation Accepted | Message: Your quotation has been accepted by the customer.

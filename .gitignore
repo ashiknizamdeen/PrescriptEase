@@ -3,3 +3,6 @@ database.php
 
 # Database dumps with actual data
 pres_system.sql
+
+#log files
+email_log.txt
