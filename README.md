@@ -245,3 +245,5 @@ PRESCRIPTION_SYSTEM/
 ---
 
 **Note**: This system is designed for educational purposes and should be thoroughly tested and secured before any production use in a real healthcare environment.
+
+**Made with ❤️ by Ashik**
