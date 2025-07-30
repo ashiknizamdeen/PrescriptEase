@@ -1,7 +1,7 @@
 # Prescription Management System
 ![Hero Section](./assets/screenshot.png)
 
-## 🏥 Project Overview
+## 🏥 Key Project Overview
 
 This system allows patients to upload their medical prescriptions and receive competitive quotations from registered pharmacies. It streamlines the prescription fulfillment process by enabling digital prescription submission, automated quotation generation, and email notifications.
 
