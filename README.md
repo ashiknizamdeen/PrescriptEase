@@ -3,6 +3,8 @@
 
 ## 🏥 Key Project Overview
 
+**The website will be deployed very soon!**
+
 This system allows patients to upload their medical prescriptions and receive competitive quotations from registered pharmacies. It streamlines the prescription fulfillment process by enabling digital prescription submission, automated quotation generation, and email notifications.
 
 ## ✨ Key Features
